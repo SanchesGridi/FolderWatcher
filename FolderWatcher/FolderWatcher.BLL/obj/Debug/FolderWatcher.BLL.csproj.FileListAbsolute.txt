@@ -1,0 +1,24 @@
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.BLL\bin\Debug\FolderWatcher.BLL.dll
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.BLL\bin\Debug\FolderWatcher.BLL.pdb
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.BLL\obj\Debug\FolderWatcher.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.BLL\obj\Debug\FolderWatcher.BLL.dll
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.BLL\obj\Debug\FolderWatcher.BLL.pdb
+G:\Синезис\FolderWatcher\FolderWatcher.BLL\bin\Debug\FolderWatcher.BLL.dll
+G:\Синезис\FolderWatcher\FolderWatcher.BLL\bin\Debug\FolderWatcher.BLL.pdb
+G:\Синезис\FolderWatcher\FolderWatcher.BLL\obj\Debug\FolderWatcher.BLL.csprojAssemblyReference.cache
+G:\Синезис\FolderWatcher\FolderWatcher.BLL\obj\Debug\FolderWatcher.BLL.csproj.CoreCompileInputs.cache
+G:\Синезис\FolderWatcher\FolderWatcher.BLL\obj\Debug\FolderWatcher.BLL.dll
+G:\Синезис\FolderWatcher\FolderWatcher.BLL\obj\Debug\FolderWatcher.BLL.pdb
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.BLL\obj\Debug\FolderWatcher.BLL.csprojAssemblyReference.cache
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.BLL\bin\Debug\FolderWatcher.BLL.dll
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.BLL\bin\Debug\FolderWatcher.BLL.pdb
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.BLL\obj\Debug\FolderWatcher.BLL.csprojAssemblyReference.cache
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.BLL\obj\Debug\FolderWatcher.BLL.csproj.CoreCompileInputs.cache
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.BLL\obj\Debug\FolderWatcher.BLL.dll
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.BLL\obj\Debug\FolderWatcher.BLL.pdb
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.BLL\bin\Debug\FolderWatcher.BLL.dll
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.BLL\bin\Debug\FolderWatcher.BLL.pdb
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.BLL\obj\Debug\FolderWatcher.BLL.csprojAssemblyReference.cache
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.BLL\obj\Debug\FolderWatcher.BLL.csproj.CoreCompileInputs.cache
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.BLL\obj\Debug\FolderWatcher.BLL.dll
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.BLL\obj\Debug\FolderWatcher.BLL.pdb

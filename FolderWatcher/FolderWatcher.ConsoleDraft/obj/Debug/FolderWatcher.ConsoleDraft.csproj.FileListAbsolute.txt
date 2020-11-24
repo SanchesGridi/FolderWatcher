@@ -1,0 +1,7 @@
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.ConsoleDraft\bin\Debug\FolderWatcher.ConsoleDraft.exe.config
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.ConsoleDraft\bin\Debug\FolderWatcher.ConsoleDraft.exe
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.ConsoleDraft\bin\Debug\FolderWatcher.ConsoleDraft.pdb
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.ConsoleDraft\obj\Debug\FolderWatcher.ConsoleDraft.csprojAssemblyReference.cache
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.ConsoleDraft\obj\Debug\FolderWatcher.ConsoleDraft.csproj.CoreCompileInputs.cache
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.ConsoleDraft\obj\Debug\FolderWatcher.ConsoleDraft.exe
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.ConsoleDraft\obj\Debug\FolderWatcher.ConsoleDraft.pdb

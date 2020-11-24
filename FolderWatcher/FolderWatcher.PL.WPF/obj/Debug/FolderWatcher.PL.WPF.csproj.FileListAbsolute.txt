@@ -1,0 +1,124 @@
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\FolderWatcher.PL.WPF.exe.config
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\FolderWatcher.PL.WPF.exe
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\FolderWatcher.PL.WPF.pdb
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.csprojAssemblyReference.cache
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF_MarkupCompile.cache
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.g.resources
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.Properties.Resources.resources
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.csproj.GenerateResource.cache
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.exe
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.pdb
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\CommonServiceLocator.dll
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.Abstractions.dll
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.Container.dll
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.Abstractions.pdb
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.Container.pdb
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.csproj.CopyComplete
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\Dictionaries\ResourceColorDictionary.baml
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\App.baml
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF_MarkupCompile.lref
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\FolderWatcher.BLL.dll
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\FolderWatcher.BLL.pdb
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\FolderWatcher.PL.WPF.exe.config
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\FolderWatcher.PL.WPF.exe
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\FolderWatcher.PL.WPF.pdb
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\CommonServiceLocator.dll
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\FolderWatcher.BLL.dll
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.Abstractions.dll
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.Container.dll
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.ServiceLocation.dll
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\FolderWatcher.BLL.pdb
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.Abstractions.pdb
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.Container.pdb
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.ServiceLocation.pdb
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.csprojAssemblyReference.cache
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\Dictionaries\ResourceColorDictionary.baml
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\App.baml
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\View\MainWindow.g.cs
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\App.g.cs
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF_MarkupCompile.cache
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF_MarkupCompile.lref
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\View\MainWindow.baml
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.g.resources
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.Properties.Resources.resources
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.csproj.GenerateResource.cache
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.csproj.CoreCompileInputs.cache
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.csproj.CopyComplete
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.exe
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.pdb
+C:\Users\User\Desktop\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\Dictionaries\HelpersDictionary.baml
+G:\Синезис\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\Dictionaries\HelpersDictionary.baml
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\FolderWatcher.PL.WPF.exe.config
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\FolderWatcher.PL.WPF.exe
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\FolderWatcher.PL.WPF.pdb
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\CommonServiceLocator.dll
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\FolderWatcher.BLL.dll
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.Abstractions.dll
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.Container.dll
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.ServiceLocation.dll
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\FolderWatcher.BLL.pdb
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.Abstractions.pdb
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.Container.pdb
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.ServiceLocation.pdb
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.csprojAssemblyReference.cache
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\Dictionaries\ResourceColorDictionary.baml
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\App.baml
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\View\MainWindow.g.cs
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\App.g.cs
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF_MarkupCompile.cache
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF_MarkupCompile.lref
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\Dictionaries\HelpersDictionary.baml
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\View\MainWindow.baml
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.g.resources
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.Properties.Resources.resources
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.csproj.GenerateResource.cache
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.csproj.CoreCompileInputs.cache
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.csproj.CopyComplete
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.exe
+E:\Microsoft Visual Studio\Projects training\C#\HW\Задания И нароботки\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.pdb
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\FolderWatcher.PL.WPF.exe.config
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\FolderWatcher.PL.WPF.exe
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\FolderWatcher.PL.WPF.pdb
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\CommonServiceLocator.dll
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\FolderWatcher.BLL.dll
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.Abstractions.dll
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.Container.dll
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.ServiceLocation.dll
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\FolderWatcher.BLL.pdb
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.Abstractions.pdb
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.Container.pdb
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\bin\Debug\Unity.ServiceLocation.pdb
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.csprojAssemblyReference.cache
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\Dictionaries\ResourceColorDictionary.baml
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\App.baml
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\View\MainWindow.g.cs
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\App.g.cs
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF_MarkupCompile.cache
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF_MarkupCompile.lref
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\Dictionaries\HelpersDictionary.baml
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\View\MainWindow.baml
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.g.resources
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.Properties.Resources.resources
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.csproj.GenerateResource.cache
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.csproj.CoreCompileInputs.cache
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.csproj.CopyComplete
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.exe
+E:\Projects\Cs\Development\FolderWatcher\FolderWatcher.PL.WPF\obj\Debug\FolderWatcher.PL.WPF.pdb
