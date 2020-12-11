@@ -1,3 +1,3 @@
 # FolderWatcher
 
-Second interface for ADANI.
+Simple file browser.
